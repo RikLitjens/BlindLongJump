@@ -2,7 +2,7 @@
 
 A github with all the (final) Arduino code we used for the product and for testing the radio connectivity.
 
-Receiver is the code that is in the armband Nano
+Receiver is the code that is in the armband-Nano
 
 Transmitter is the code that is in the sensor-Nano next to the track.
 
